@@ -26,6 +26,7 @@ As `estat` have grown so much and making it available as FOSS (Free and open-sou
 - [Shōjō](https://github.com/Fazendaaa/Shojo): LaTex package manager
 - [Hellhound](github.com/Fazendaaa/Hellhound): VSCode extension to integrate Jinn recipes
 - [Shapeshifter](github.com/Fazendaaa/Shapeshifter): Speech recognition SDK to glue all other monsters projects
+- [Crocotta](github.com/Fazendaaa/Crocotta): SOC assisted guider
 
 ## Components
 
